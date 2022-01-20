@@ -1,3 +1,3 @@
 # The-Sparks-Foundation-
 
-Here are the tasks of spark foundation internship program.
+Here are the tasks for spark foundation internship program.
